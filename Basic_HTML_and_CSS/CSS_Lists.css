@@ -1,0 +1,9 @@
+ol {
+	list-style-type: upper-alpha;
+	}
+ul {
+	list-style-type: circle;
+	}
+h1 {
+	text-shadow: -1px 1px 8px rgba(192, 15, 49, 1);
+	}

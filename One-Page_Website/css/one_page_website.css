@@ -1,0 +1,31 @@
+.navig {
+    font-family: 'Garamond', serif;
+    font-size: 26;
+}
+
+.topheader {
+    font-family: 'Papyrus', fantasy;
+    font-size: 35;
+}
+
+.summary {
+    font-family: 'Garamond', serif;
+    font-size: 22;
+}
+
+h3 {
+    font-family: 'Garamond', serif;
+    font-size: 28;
+}
+
+.contactformbody {
+    font-family: 'Garamond', serif;
+    font-size: 22;
+}
+
+.contactinput {
+    width: 200px;
+    margin-right: 20px;
+    border: solid 2px green;
+    border-radius: 30px;
+}
